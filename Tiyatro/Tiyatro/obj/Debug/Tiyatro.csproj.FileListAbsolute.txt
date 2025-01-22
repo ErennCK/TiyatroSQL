@@ -1,0 +1,17 @@
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\bin\Debug\Tiyatro.exe.config
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\bin\Debug\Tiyatro.exe
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\bin\Debug\Tiyatro.pdb
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.Form1.resources
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.Properties.Resources.resources
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.exe
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.pdb
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.Form2.resources
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.AnaMenuForm.resources
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.Oyunlar.resources
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.BiletAl.resources
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.Biletlerim.resources
+C:\Users\Eren\source\repos\Tiyatro\Tiyatro\obj\Debug\Tiyatro.Foto.resources
